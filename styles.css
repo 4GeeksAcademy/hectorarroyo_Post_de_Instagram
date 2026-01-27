@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+}
+.post{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+.body-icons{
+    display: flex;
+}
+.icon-save{
+    justify-content: flex-end;
+}
